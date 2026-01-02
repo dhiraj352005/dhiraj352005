@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi, I'm Dhiraj Raut</h2>
 
 <p align="center">
-🎓 I’m currently persuing Bachelor's Degree in Information Technology at PCCOE.
+🎓 I’m currently persuing Bachelor's Degree in Information Technology at PCCOE.<br/>
 💻 Aspiring Software Engineer | DSA • Full Stack • AI/ML <br/>
 🚀 Focused on building scalable applications and solving real-world problems
 </p>
@@ -43,9 +43,9 @@
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,flask,mysql,git" />
-</p>
+</p> -->
 
 
 
