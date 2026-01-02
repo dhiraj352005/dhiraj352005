@@ -43,9 +43,9 @@
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,flask,mysql,git" />
-</p> -->
+</p> 
 
 
 
