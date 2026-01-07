@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/raut07/" target="_blank">
+  <a href="https://leetcode.com/problemset/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
   &nbsp;&nbsp;
