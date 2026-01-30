@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/dhiraj_raut" target="_blank">
+  <a href="https://www.codechef.com/dashboard" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
