@@ -17,14 +17,14 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-7209B7?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-140A26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/dhiraj352005"><img src="https://img.shields.io/badge/GitHub-140A26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br /><br />
 
   <!-- GitHub Badges -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=4361EE&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=7209B7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=3A0CA3&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=dhiraj352005&label=Profile%20Views&color=4361EE&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dhiraj352005?label=Followers&style=flat-square&color=7209B7&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/dhiraj352005?label=Stars&style=flat-square&color=3A0CA3&logo=github" alt="Stars" />
 </div>
 
 <br />
@@ -90,7 +90,7 @@ A highly scalable distributed backend architecture designed to handle massive co
 | **Security** | OAuth 2.0, JWT, Rate Limiting, PCI-DSS compliant data structures |
 | **Impact** | Reduced checkout failure rates by 40% and improved system uptime to 99.99% |
 
-**Repository:** [`github.com/YOUR_GITHUB_USERNAME/ecommerce-engine`](#)
+**Repository:** [`github.com/dhiraj352005/ecommerce-engine`](#)
 <br />
 </details>
 
@@ -107,7 +107,7 @@ An AI-powered pipeline utilizing Retrieval-Augmented Generation to instantly ext
 | **Security** | Role-based access control (RBAC) and encrypted data in transit/rest |
 | **Impact** | Automated 80% of manual data extraction tasks for the operations team |
 
-**Repository:** [`github.com/YOUR_GITHUB_USERNAME/rag-document-ai`](#)
+**Repository:** [`github.com/dhiraj352005/rag-document-ai`](#)
 <br />
 </details>
 
@@ -124,7 +124,7 @@ A low-latency, full-stack application built to visualize high-frequency trading 
 | **Security** | WSS (Secure WebSockets), end-to-end payload encryption |
 | **Impact** | Provided institutional-grade visualization tooling for retail-level research |
 
-**Repository:** [`github.com/YOUR_GITHUB_USERNAME/trading-dashboard`](#)
+**Repository:** [`github.com/dhiraj352005/trading-dashboard`](#)
 <br />
 </details>
 
@@ -197,12 +197,12 @@ Developed and optimized high-traffic client-facing web applications and foundati
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=7209B7&icon_color=4361EE&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&fire=7209B7&ring=4361EE&currStreakLabel=7209B7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj352005&show_icons=true&theme=transparent&title_color=7209B7&icon_color=4361EE&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj352005&theme=transparent&fire=7209B7&ring=4361EE&currStreakLabel=7209B7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=7209B7&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj352005&layout=compact&theme=transparent&title_color=7209B7&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="50%" />
 </div>
 
 ---
@@ -210,7 +210,7 @@ Developed and optimized high-traffic client-facing web applications and foundati
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj352005&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -218,7 +218,7 @@ Developed and optimized high-traffic client-facing web applications and foundati
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=7209B7&line=4361EE&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj352005&theme=tokyo-night&bg_color=0d1117&color=7209B7&line=4361EE&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -226,14 +226,14 @@ Developed and optimized high-traffic client-facing web applications and foundati
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/dhiraj352005/dhiraj352005/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-```yaml
+
 Current_Status:
   Learning: 
     - "Advanced Rust lifetimes and concurrency"
