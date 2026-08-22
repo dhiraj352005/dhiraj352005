@@ -42,6 +42,20 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 - ⚙️ **Focus:** System design, REST API latency optimization, and building robust predictive pipelines[cite: 2].
 
 ---
+## 💼 Experience
+
+### Software Development Engineer Intern | **Zensar Technologies**
+*June 2026 – Present*
+
+Engineering enterprise-grade full-stack cloud applications within a multi-tiered client-server architecture across full SDLC Agile sprint iterations[cite: 2].
+- Spearheaded backend module development and web services integration, solving complex routing problems to boost engineering efficiency by ~20%[cite: 2].
+- Executed rigorous unit testing, systematic debugging, and Git-based CI/CD code reviews to reduce production defects by ~30%[cite: 2].
+- Optimized backend REST API latency and frontend interface responsiveness by ~15%, writing clean and maintainable code[cite: 2].
+
+`React.js` `TypeScript` `Node.js` `RESTful APIs` `Agile`
+
+---
+
 
 # 🛠️ Tech Stack
 
@@ -157,19 +171,7 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 ---
 
-## 💼 Experience
 
-### Software Development Engineer Intern | **Zensar Technologies**
-*June 2026 – Present*
-
-Engineering enterprise-grade full-stack cloud applications within a multi-tiered client-server architecture across full SDLC Agile sprint iterations[cite: 2].
-- Spearheaded backend module development and web services integration, solving complex routing problems to boost engineering efficiency by ~20%[cite: 2].
-- Executed rigorous unit testing, systematic debugging, and Git-based CI/CD code reviews to reduce production defects by ~30%[cite: 2].
-- Optimized backend REST API latency and frontend interface responsiveness by ~15%, writing clean and maintainable code[cite: 2].
-
-`React.js` `TypeScript` `Node.js` `RESTful APIs` `Agile`
-
----
 
 ## 🏆 Achievements
 
