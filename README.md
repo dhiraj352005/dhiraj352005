@@ -43,23 +43,51 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+## Languages
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,bash&perline=10" alt="Languages" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+</p>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&perline=10" alt="Frontend" />
+## Frontend
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=10" alt="Backend & DB" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
 
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=linux,git,github,postman&perline=10" alt="Cloud & DevOps" />
+## Backend & Frameworks
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## AI / ML & Data
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</p>
+
+## Tools & Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven,linux" />
+</p>
+
 
 ---
 
