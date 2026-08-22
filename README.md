@@ -201,11 +201,11 @@ A scalable full-stack web application built using MVC architecture for property 
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Node.js, Express.js, MongoDB, JavaScript, Bootstrap[cite: 2] |
-| **Features** | Interactive geospatial visualization via Mapbox API and GeoJSON[cite: 2] |
+| **Stack** | Node.js, Express.js, MongoDB, JavaScript, Bootstrap |
+| **Features** | Interactive geospatial visualization via Mapbox API and GeoJSON |
 | **Performance** | Optimized backend modules for filtering and CRUD operations to improve application maintainability[cite: 2] |
-| **Security** | Implemented Passport.js for secure role-based authentication and session management[cite: 2] |
-| **Deployment** | Production-ready deployment on Render with MongoDB Atlas and environment configurations[cite: 2] |
+| **Security** | Implemented Passport.js for secure role-based authentication and session management |
+| **Deployment** | Production-ready deployment on Render with MongoDB Atlas and environment configurations |
 
 **Repository:** [`github.com/dhiraj352005/wanderlust`](#)
 <br />
@@ -218,9 +218,9 @@ An end-to-end machine learning pipeline leveraging a hybrid CNN-LSTM architectur
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, TensorFlow, Keras, Scikit-learn, NumPy, Pandas[cite: 2] |
-| **Scale** | Fully structured ML pipeline handling normalization and dataset balancing[cite: 2] |
-| **Performance** | Achieved 86% accuracy and 0.84 F1-score through iterative hyperparameter optimization[cite: 2] |
+| **Stack** | Python, TensorFlow, Keras, Scikit-learn, NumPy, Pandas |
+| **Scale** | Fully structured ML pipeline handling normalization and dataset balancing |
+| **Performance** | Achieved 86% accuracy and 0.84 F1-score through iterative hyperparameter optimization|
 | **Research** | Conducted comparative model evaluation and documented experimental findings[cite: 2] |
 | **Impact** | Identified highly effective predictive modeling approaches for medical informatics[cite: 2] |
 
