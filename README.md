@@ -42,6 +42,63 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 - ⚙️ **Focus:** System design, REST API latency optimization, and building robust predictive pipelines[cite: 2].
 
 ---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+  <a href="https://leetcode.com/u/Raut_Dhiraj_7/">
+    <img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 700+ Solved" />
+  </a>
+
+  <a href="https://leetcode.com/u/Raut_Dhiraj_7/">
+    <img src="https://img.shields.io/badge/LeetCode-Peak_Rating_1616-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Peak Rating 1616" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.hackerrank.com/profile/dhiraj352005">
+    <img src="https://img.shields.io/badge/HackerRank-5★_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Problem Solving" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/dhiraj352005">
+    <img src="https://img.shields.io/badge/HackerRank-5★_Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.codechef.com/users/dhiraj_raut">
+    <img src="https://img.shields.io/badge/CodeChef-dhiraj__raut-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+
+</div>
+
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/dhirajuraut/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj_Raut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/dhiraj352005">
+    <img src="https://img.shields.io/badge/GitHub-dhiraj352005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://x.com/dhiraj2027">
+    <img src="https://img.shields.io/badge/X-@dhiraj2027-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+
+  <a href="mailto:dhiraj352005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
+
 ## 💼 Experience
 
 ### Software Development Engineer Intern | **Zensar Technologies**
@@ -198,16 +255,6 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
   <img src="https://img.shields.io/badge/Coursera_Data_Structures_&_Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera DSA" />
 </div>
 
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Peak_Rating_1616-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Rating" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java" /></a>
-</div>
 
 ---
 
