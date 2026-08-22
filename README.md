@@ -221,15 +221,45 @@ Engineering enterprise-grade full-stack cloud applications within a multi-tiered
 ## 🎯 Current Focus
 
 
-Current_Status:
-  Learning: 
-    - "Advanced Backend Architecture and System Design"
-    - "Scaling ML models in production environments"
-  Building: 
-    - "Optimizing RESTful services for enterprise-scale latency"
-  Exploring: 
-    - "Cloud-native DevOps pipelines and deployment strategies"
-  Open_To: 
-    - "Software Development Engineering Roles"
-    - "Full Stack & Backend Opportunities"
-    - "Open Source Collaborations"
+  problem_solving:
+    - Data Structures & Algorithms
+    - Competitive Programming
+    - Algorithm Optimization
+    - Interview Problem Solving
+
+  software_engineering:
+    - Backend Development
+    - REST API Design
+    - System Design
+    - Clean Code
+    - Testing & Debugging
+    - Git & CI/CD
+
+  full_stack:
+    - React.js
+    - Node.js
+    - Express.js
+    - MongoDB
+    - RESTful APIs
+
+  ai_ml:
+    - Machine Learning
+    - Deep Learning
+    - CNN
+    - LSTM
+    - AI-powered Applications
+
+  core_cs:
+    - Operating Systems
+    - DBMS
+    - Computer Networks
+    - OOP
+    - Linux
+
+  open_to:
+    - Software Engineering Internships
+    - SDE Opportunities
+    - Backend Engineering
+    - Full Stack Development
+    - AI/ML Opportunities
+    - Open Source Collaboration
