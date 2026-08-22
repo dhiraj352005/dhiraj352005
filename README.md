@@ -73,10 +73,19 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 </div>
 
 ---
-
 ## 🤝 Connect With Me
 
 <div align="center">
+
+  <a href="mailto:dhiraj352005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dhiraj352005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="tel:+918888988342">
+    <img src="https://img.shields.io/badge/Mobile-+91%208888988342-22C55E?style=for-the-badge&logo=phone&logoColor=white" alt="Mobile" />
+  </a>
+
+  <br/><br/>
 
   <a href="https://www.linkedin.com/in/dhirajuraut/">
     <img src="https://img.shields.io/badge/LinkedIn-Dhiraj_Raut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -86,12 +95,7 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
     <img src="https://img.shields.io/badge/GitHub-dhiraj352005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="mailto:dhiraj352005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
 </div>
-
 ---
 
 ## 🌐 Social Media
