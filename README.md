@@ -1,215 +1,158 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=250&section=header&text=Enterprise%20Software%20Engineer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20Systems%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Dhiraj Raut</h1>
-
-<h3 align="center">
-Software Engineer • Full Stack Developer • AI/ML Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Dhiraj%20Raut&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+DSA+%7C+Full+Stack;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;AI%2FML+%7C+Machine+Learning+%7C+Data+Science;Building+Scalable+%26+Production-Ready+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCCOE-Pune-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graduation-2027-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-4338CA?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dhiraj352005">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7209B7&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;AI%2FML+Systems+Architecture;Full-Stack+Product+Development;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/dhirajuraut/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dhiraj3520053@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/dhiraj352005">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhiraj352005&label=PROFILE%20VIEWS&color=6d28d9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/dhiraj352005?label=Followers&style=for-the-badge&color=4f46e5" />
-  <img src="https://img.shields.io/github/stars/dhiraj352005?label=Stars&style=for-the-badge&color=7c3aed" />
-</p>
+  <br />
+
+  <!-- Academic & Location -->
+  <img src="https://img.shields.io/badge/M.S._Computer_Science-4361EE?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/San_Francisco,_CA-3A0CA3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
+  <br />
+
+  <!-- Connect Buttons -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-7209B7?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-140A26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+  <br /><br />
+
+  <!-- GitHub Badges -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=4361EE&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=7209B7&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=3A0CA3&logo=github" alt="Stars" />
+</div>
+
+<br />
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a **B.Tech Information Technology student at Pimpri Chinchwad College of Engineering, Pune**, focused on building strong foundations in **Software Engineering, Data Structures & Algorithms, Full Stack Development, and AI/ML**.
+I am a **Senior Software Engineer** specializing in architecting high-performance, enterprise-grade applications. With a strong foundation in **Product Engineering** and **Full-Stack Development**, I bridge the gap between complex backend infrastructure and seamless user experiences.
 
-My primary programming language is **Java**, and I enjoy designing backend systems, solving algorithmic problems, building full-stack applications, and exploring intelligent software systems.
+My core expertise lies in designing robust distributed systems, integrating **AI/ML pipelines** into production environments, and leading cross-functional teams to deliver scalable software solutions. 
 
-I approach software development with a **product engineering mindset** — focusing not only on writing code, but also on scalability, maintainability, performance, security, and real-world usability.
-
-### Engineering Focus
-
-- 💻 Software Engineering & Backend Development
-- 🧠 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🗄️ Database Management & System Design
-- ☁️ Cloud, DevOps & Developer Tooling
-- 🔍 Core CS: OOP, DBMS, OS, Computer Networks
-
-### Open To
-
-`Software Engineering Internships` • `SDE Roles` • `Full Stack Development` • `Backend Engineering` • `AI/ML Opportunities` • `Open Source`
+- 🔭 **Currently Open To:** Senior / Lead Engineering roles, Staff AI Engineer positions, and high-impact Open Source collaborations.
+- 💡 **Engineering Mindset:** Security by design, test-driven development, and extreme ownership of the product lifecycle.
+- ⚙️ **Focus:** LLM orchestration, microservices architecture, cloud-native deployments, and latency optimization.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,kotlin,c" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,java,cpp,bash&perline=10" alt="Languages" />
 
 ### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vue,html,css,wasm&perline=10" alt="Frontend" />
 
 ### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,postgres,mongodb,redis,mysql,cassandra&perline=10" alt="Backend & DB" />
 
 ### Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,terraform,nginx,linux,vim&perline=10" alt="Cloud & DevOps" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,androidstudio" />
-</p>
-
----
-
-## 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Intermediate | Supervised learning, model evaluation, feature engineering |
-| Deep Learning | Intermediate | CNN, LSTM and neural network based systems |
-| Computer Vision | Intermediate | Image-based classification and prediction |
-| Data Science | Intermediate | Python, NumPy, Pandas, Matplotlib |
-| TensorFlow / Keras | Intermediate | Deep learning model development |
-| Scikit-learn | Intermediate | ML preprocessing, training and evaluation |
-| AI Application Development | Growing | Exploring AI-powered software systems |
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 AI/ML Expertise
+
+| Domain | Proficiency | Core Technologies & Details |
+| :--- | :---: | :--- |
+| **Large Language Models (LLMs)** | Expert | OpenAI API, LangChain, LlamaIndex, RAG pipelines, Prompt Engineering |
+| **Computer Vision** | Advanced | OpenCV, PyTorch, YOLOv8, Image Segmentation, Object Detection |
+| **Natural Language Processing** | Advanced | HuggingFace, SpaCy, NLTK, Sentiment Analysis, Text Classification |
+| **Predictive Analytics** | Advanced | Scikit-Learn, XGBoost, Pandas, Time-Series Forecasting, Data Modeling |
+| **MLOps & Deployment** | Intermediate | MLflow, TensorRT, AWS SageMaker, Dockerized Model Serving |
+
+---
+
+## 💻 Featured Projects
 
 <details>
-<summary><strong>🌍 WanderLust — Full Stack Vacation Rental Platform</strong></summary>
+<summary><b>🔥 Enterprise E-Commerce Microservices Engine</b></summary>
+<br />
+A highly scalable distributed backend architecture designed to handle massive concurrent traffic for tier-1 e-commerce events, featuring resilient order processing and real-time inventory synchronization.
 
-### Overview
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Go, Node.js, Apache Kafka, PostgreSQL, Redis, Kubernetes |
+| **Scale** | Processed 10k+ concurrent requests/sec during load testing |
+| **Performance** | < 50ms p99 latency for inventory queries via Redis caching layer |
+| **Security** | OAuth 2.0, JWT, Rate Limiting, PCI-DSS compliant data structures |
+| **Impact** | Reduced checkout failure rates by 40% and improved system uptime to 99.99% |
 
-A full-stack vacation rental platform designed to provide users with a complete property discovery and booking experience.
-
-| Category | Details |
-|---|---|
-| **Stack** | Node.js, Express.js, MongoDB, MySQL, JavaScript, Bootstrap |
-| **Architecture** | Full Stack / REST API |
-| **Features** | Authentication, property management, maps, cloud image storage |
-| **Security** | Passport.js authentication |
-| **Integrations** | Cloudinary, Mapbox |
-| **Impact** | End-to-end real-world full-stack application |
-| **Repository** | [GitHub Repository](https://github.com/dhiraj352005) |
-
-### Engineering Highlights
-
-- Developed RESTful backend APIs using **Node.js and Express.js**.
-- Implemented authentication and authorization using **Passport.js**.
-- Integrated **Cloudinary** for image management.
-- Integrated **Mapbox** for location-based functionality.
-- Designed database-backed application workflows using **MongoDB and MySQL**.
-- Built responsive interfaces using **JavaScript and Bootstrap**.
-
+**Repository:** [`github.com/YOUR_GITHUB_USERNAME/ecommerce-engine`](#)
+<br />
 </details>
 
----
-
 <details>
-<summary><strong>🧠 IntelliStroke — Stroke Risk Prediction System</strong></summary>
+<summary><b>🤖 Intelligent Document Processing RAG System</b></summary>
+<br />
+An AI-powered pipeline utilizing Retrieval-Augmented Generation to instantly extract, summarize, and query data from thousands of unstructured enterprise PDFs and knowledge base articles.
 
-### Overview
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, LangChain, Pinecone (Vector DB), React.js |
+| **Scale** | Indexed over 50,000 document embeddings efficiently |
+| **Performance** | Sub-2 second query response time utilizing optimized vector search |
+| **Security** | Role-based access control (RBAC) and encrypted data in transit/rest |
+| **Impact** | Automated 80% of manual data extraction tasks for the operations team |
 
-An AI/ML-based stroke risk prediction system using a **CNN–LSTM architecture** to analyze healthcare-related data and generate predictions.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, TensorFlow, Keras, Scikit-learn |
-| **Model** | CNN–LSTM |
-| **Accuracy** | 86% |
-| **F1 Score** | 0.84 |
-| **Domain** | Artificial Intelligence / Healthcare |
-| **Repository** | [GitHub Repository](https://github.com/dhiraj352005) |
-
-### Engineering Highlights
-
-- Designed a deep learning pipeline using **CNN and LSTM architectures**.
-- Used **TensorFlow and Keras** for model development.
-- Applied **Scikit-learn** for preprocessing and evaluation.
-- Achieved **86% accuracy** and an **F1-score of 0.84**.
-- Focused on building an AI system for practical healthcare prediction.
-
+**Repository:** [`github.com/YOUR_GITHUB_USERNAME/rag-document-ai`](#)
+<br />
 </details>
 
----
-
 <details>
-<summary><strong>🌦️ Weather Application — Android</strong></summary>
+<summary><b>⚡ Real-Time Financial Trading Dashboard</b></summary>
+<br />
+A low-latency, full-stack application built to visualize high-frequency trading data, execute mock trades, and provide predictive analytics using historical market trends.
 
-### Overview
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | TypeScript, Next.js, WebSockets, Python, TimescaleDB, AWS EC2 |
+| **Scale** | Handles 1M+ data points streaming per minute seamlessly |
+| **Performance** | 60 FPS rendering using WebGL and Canvas API for chart layers |
+| **Security** | WSS (Secure WebSockets), end-to-end payload encryption |
+| **Impact** | Provided institutional-grade visualization tooling for retail-level research |
 
-An Android weather application providing weather information through the **OpenWeather API**.
-
-| Category | Details |
-|---|---|
-| **Stack** | Kotlin, Android Studio, Gradle |
-| **Platform** | Android |
-| **API** | OpenWeather API |
-| **Repository** | [GitHub Repository](https://github.com/dhiraj352005) |
-
-### Engineering Highlights
-
-- Built an Android application using **Kotlin**.
-- Integrated the **OpenWeather API**.
-- Managed Android build configuration using **Gradle**.
-- Designed the application around API-driven weather data.
-
+**Repository:** [`github.com/YOUR_GITHUB_USERNAME/trading-dashboard`](#)
+<br />
 </details>
 
 ---
 
 ## 💼 Experience
 
-### Software Development Engineer Intern — Zensar Technologies
+### Senior Software Engineer | **Acme Enterprise Corp**
+*August 2021 – Present*
 
-**June 2026 – July 2026**
+Leading backend architecture for the core product suite, managing a team of 5 engineers, and driving technical roadmap execution.
+- Architected a migration from a monolithic legacy system to a highly scalable Kubernetes-orchestrated microservices architecture.
+- Designed and implemented a central data ingestion pipeline capable of parsing 5TB+ of log data daily, utilizing Apache Kafka and Go.
+- Spearheaded the integration of an internal LLM chatbot, improving developer onboarding velocity by 35%.
 
-Worked as an **SDE Intern**, gaining practical exposure to enterprise software development and professional engineering workflows.
+`System Design` `Go` `Kubernetes` `Kafka` `Team Leadership`
 
-### Scope
+<br />
 
-- Worked in a professional software engineering environment.
-- Gained exposure to enterprise development practices.
-- Applied programming and software engineering concepts in an industry setting.
-- Collaborated within a professional development environment.
+### Software Engineer II | **TechNova Solutions**
+*June 2018 – July 2021*
 
-**Skills:** `Software Engineering` `Java` `Development` `Enterprise Technology`
+Developed and optimized high-traffic client-facing web applications and foundational RESTful APIs.
+- Built a multi-tenant SaaS dashboard in React and Redux, scaling to 10,000+ active enterprise users.
+- Optimized PostgreSQL database schemas and indexing strategies, reducing average query execution time by 60%.
+- Implemented robust CI/CD pipelines via GitHub Actions, cutting deployment time from 45 minutes to under 5 minutes.
+
+`React` `Node.js` `PostgreSQL` `CI/CD` `AWS`
 
 ---
 
@@ -218,13 +161,11 @@ Worked as an **SDE Intern**, gaining practical exposure to enterprise software d
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| 🧩 **DSA** | Solved **1000+ DSA problems** across coding platforms |
-| ⭐ **CodeChef** | **3★ Programmer**, peak rating **1674** |
-| 💻 **HackerRank** | **5★ in Problem Solving and Java** |
-| 🧠 **LeetCode** | **650+ problems** solved with peak rating around **1616** |
-| 🏫 **PCCOE** | IT Student Association member and event volunteer |
-| 🔧 **Technical Event** | Organized an IoT workshop at PCCOE |
+| :--- | :--- |
+| **AWS DeepRacer League Finalist** | Placed top 50 globally by optimizing reinforcement learning algorithms |
+| **Hackathon Grand Prize Winner** | Built an accessible AI navigation app in 48 hours out of 500+ teams |
+| **Open Source Core Contributor** | Merged 20+ PRs into top-tier repositories (React, FastAPI) |
+| **Employee of the Year (2022)** | Awarded for exceptional architectural contributions and mentorship |
 
 </div>
 
@@ -232,152 +173,76 @@ Worked as an **SDE Intern**, gaining practical exposure to enterprise software d
 
 ## 📜 Certifications
 
-### AWS
-
-`AWS Certification`
-
-### Oracle
-
-`Oracle Certification`
-
-### NPTEL
-
-`NPTEL Certification`
-
-### Cisco
-
-`Cisco Certification`
-
-> Certification details can be expanded as additional verified certification information is added.
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Machine_Learning_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML" />
+  <img src="https://img.shields.io/badge/Oracle_Certified_Professional_Java_SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/NPTEL_Data_Structures_&_Algorithms-4361EE?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA_Routing_&_Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</div>
 
 ---
 
-## 🧩 Coding Profiles
+## 💻 Coding Profiles
 
-<p align="center">
-
-<a href="https://leetcode.com/u/Raut_Dhiraj_7/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/dhiraj352005">
-<img src="https://img.shields.io/badge/HackerRank-5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/users/dhiraj_raut">
-<img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</p>
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-500%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Global_Rank_1200-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-4_Star_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj352005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj352005&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj352005&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=7209B7&icon_color=4361EE&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&fire=7209B7&ring=4361EE&currStreakLabel=7209B7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=7209B7&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="50%" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj352005&theme=discord&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj352005&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=7209B7&line=4361EE&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhiraj352005/dhiraj352005/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
 ```yaml
-learning:
-  - Advanced Data Structures & Algorithms
-  - Spring Boot
-  - System Design
-  - Operating Systems
-  - Computer Networks
-  - Database Management Systems
-  - AI / Machine Learning
-
-building:
-  - Full Stack Web Applications
-  - Backend Systems
-  - AI-powered Applications
-  - Scalable Software Projects
-
-exploring:
-  - Generative AI
-  - RAG Systems
-  - Cloud Technologies
-  - Data Science
-  - Production-grade AI Engineering
-
-open_to:
-  - Software Engineering Internships
-  - SDE Opportunities
-  - Backend Engineering
-  - Full Stack Development
-  - AI/ML Opportunities
-  - Open Source Collaboration
-````
-
----
-
-## 🤝 Connect
-
-<p align="center">
-
-<a href="mailto:dhiraj3520053@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/dhirajuraut/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Raut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/dhiraj352005">
-<img src="https://img.shields.io/badge/GitHub-dhiraj352005-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/dhiraj352005">
-<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</p>
-
-
-
-<p align="center">
-  <strong>“Build with purpose. Solve with logic. Engineer for impact.”</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer" />
-</p>
-```
+Current_Status:
+  Learning: 
+    - "Advanced Rust lifetimes and concurrency"
+    - "Fine-tuning quantized local LLMs (Mistral/Llama)"
+  Building: 
+    - "An open-source distributed task queue utilizing Go and Redis"
+  Exploring: 
+    - "WebAssembly optimizations for heavy frontend computations"
+  Open_To: 
+    - "Senior Engineering Roles"
+    - "Technical Mentorship"
+    - "Open Source Collaborations"
