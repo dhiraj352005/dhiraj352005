@@ -42,17 +42,16 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 - ⚙️ **Focus:** System design, REST API latency optimization, and building robust predictive pipelines[cite: 2].
 
 ---
-
 ## 💻 Coding Profiles
 
 <div align="center">
 
   <a href="https://leetcode.com/u/Raut_Dhiraj_7/">
-    <img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 700+ Solved" />
+    <img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
   <a href="https://leetcode.com/u/Raut_Dhiraj_7/">
-    <img src="https://img.shields.io/badge/LeetCode-Peak_Rating_1616-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Peak Rating 1616" />
+    <img src="https://img.shields.io/badge/LeetCode-Peak_Rating_1616-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Rating" />
   </a>
 
   <br/><br/>
@@ -73,9 +72,9 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 
 </div>
 
+---
 
-
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -87,12 +86,28 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
     <img src="https://img.shields.io/badge/GitHub-dhiraj352005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://x.com/dhiraj2027">
-    <img src="https://img.shields.io/badge/X-@dhiraj2027-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-
   <a href="mailto:dhiraj352005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
+
+## 🌐 Social Media
+
+<div align="center">
+
+  <a href="https://x.com/dhiraj2027">
+    <img src="https://img.shields.io/badge/X-@dhiraj2027-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+
+  <a href="https://www.instagram.com/dhiraj_raut07/">
+    <img src="https://img.shields.io/badge/Instagram-@dhiraj__raut07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://www.reddit.com/user/Vast_Breadfruit_1187/">
+    <img src="https://img.shields.io/badge/Reddit-Vast__Breadfruit__1187-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 
 </div>
