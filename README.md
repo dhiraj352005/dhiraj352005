@@ -1,235 +1,152 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=250&section=header&text=Dhiraj%20Raut&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7209B7&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;Full-Stack+Product+Development;Machine+Learning+Enthusiast;Problem+Solver+(700%2B+DSA)" alt="Typing SVG" />
-  </a>
-
-  <br />
-
-  <!-- Academic & Location -->
-  <img src="https://img.shields.io/badge/B.Tech_Information_Technology-4361EE?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Pune,_India-3A0CA3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-
-  <br />
-
-  <!-- Connect Buttons -->
-  <a href="https://github.com/dhiraj352005"><img src="https://img.shields.io/badge/Portfolio-7209B7?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/dhirajuraut"><img src="https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dhiraj352005@gmail.com"><img src="https://img.shields.io/badge/Email-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/dhiraj352005"><img src="https://img.shields.io/badge/GitHub-140A26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-  <br /><br />
-
-  <!-- GitHub Badges -->
-  <img src="https://komarev.com/ghpvc/?username=dhiraj352005&label=Profile%20Views&color=4361EE&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dhiraj352005?label=Followers&style=flat-square&color=7209B7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/dhiraj352005?label=Stars&style=flat-square&color=3A0CA3&logo=github" alt="Stars" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=250&section=header&text=Dhiraj%20Raut&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7209B7&center=true&vCenter=true&width=800&lines=Information+Technology+Undergrad;Full-Stack+%2B+AI%2FML+Developer;SDE+Intern+%40+Zensar+Technologies;Open+to+Internships+%26+Collaboration" alt="Typing SVG" /></a>
+<br/>
+![Degree](https://img.shields.io/badge/B.Tech-Information_Technology-4361EE?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Pune,_India-3A0CA3?style=for-the-badge&logo=googlemaps&logoColor=white)
+<br/>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-4361EE?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-140A26?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=dhiraj352005&label=Profile%20Views&color=4361EE&style=flat-square)
+![Followers](https://img.shields.io/github/followers/dhiraj352005?label=Followers&style=flat-square&color=7209B7&logo=github)
+![Stars](https://img.shields.io/github/stars/dhiraj352005?label=Stars&style=flat-square&color=3A0CA3&logo=github)
 </div>
-
-<br />
-
 ---
-
-## 🚀 About Me
-
-I am a **Software Development Engineer Intern** at Zensar Technologies, specializing in engineering enterprise-grade full-stack cloud applications[cite: 2]. Currently pursuing my B.Tech in Information Technology at Pimpri Chinchwad College of Engineering (GPA: 8.3)[cite: 2], I bridge the gap between complex algorithmic problem solving and seamless user experiences.
-
-My core expertise lies in designing scalable MVC architectures, integrating hybrid AI/ML prediction models, and streamlining end-to-end feature delivery through rigorous CI/CD practices[cite: 2].
-
-- 🔭 **Currently Open To:** SDE / Full-Stack Engineering roles, Backend Development, and high-impact Open Source collaborations.
-- 💡 **Engineering Mindset:** Agile full SDLC iterations, clean well-tested code, and modern algorithm design[cite: 2].
-- ⚙️ **Focus:** System design, REST API latency optimization, and building robust predictive pipelines[cite: 2].
-
+🚀 About Me
+I'm an Information Technology undergraduate at Pimpri Chinchwad College of Engineering, Pune (Class of 2027), currently working as a Software Development Engineer Intern at Zensar Technologies, where I build full-stack cloud applications with React, TypeScript, and Node.js in an Agile/SDLC environment.
+I enjoy building things end-to-end — from RESTful backends and database schemas to responsive frontends — and I'm equally drawn to applying machine learning to real-world problems like healthcare risk prediction.
+🔭 Currently: SDE Intern at Zensar Technologies, working on full-stack cloud applications
+🎓 Studying: B.Tech in Information Technology (GPA: 8.3), PCCOE Pune
+💡 Interests: Full-stack development, System Design, Machine Learning, DevOps
+🌱 Open To: Internship opportunities, open-source collaboration, and interesting full-stack/ML projects
 ---
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,bash&perline=10" alt="Languages" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&perline=10" alt="Frontend" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=10" alt="Backend & DB" />
-
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=linux,git,github,postman&perline=10" alt="Cloud & DevOps" />
-
-</div>
-
+🛠️ Tech Stack
+Languages
+![Languages](https://skillicons.dev/icons?i=java,py,js,cpp&perline=10)
+Web & Frameworks
+![Web](https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap&perline=10)
+Databases & Tooling
+![Tools](https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux&perline=10)
 ---
-
-## 🧠 AI/ML Expertise
-
-| Domain | Proficiency | Core Technologies & Details |
-| :--- | :---: | :--- |
-| **Deep Learning Architecture** | Advanced | CNN-LSTM hybrid models, TensorFlow, Keras[cite: 2] |
-| **Data Analysis & Preprocessing** | Advanced | Pandas, NumPy, Scikit-learn, Feature Engineering[cite: 2] |
-| **Predictive Analytics** | Advanced | Healthcare dataset modeling, Iterative experimentation, Hyperparameter tuning[cite: 2] |
-| **Applied AI Engineering** | Intermediate | Integrating AI-driven models into full-stack automation pipelines[cite: 2] |
-
+🧠 ML / Data Skills
+Domain	Proficiency	Technologies
+Deep Learning (CNN–LSTM)	Intermediate	TensorFlow, Keras
+Data Preprocessing & Feature Engineering	Intermediate	Pandas, NumPy, Scikit-learn
+Model Evaluation & Tuning	Intermediate	Hyperparameter tuning, comparative evaluation
+Web Services & REST APIs	Proficient	Node.js, Express.js, RESTful design
 ---
-
-## 💻 Featured Projects
-
-<details>
-<summary><b>🔥 WanderLust - Full Stack Vacation Rental Platform</b></summary>
-<br />
-A scalable full-stack web application built using MVC architecture for property listing, secure booking, and user management with location-based discovery[cite: 2].
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Node.js, Express.js, MongoDB, JavaScript, Bootstrap[cite: 2] |
-| **Features** | Interactive geospatial visualization via Mapbox API and GeoJSON[cite: 2] |
-| **Performance** | Optimized backend modules for filtering and CRUD operations to improve application maintainability[cite: 2] |
-| **Security** | Implemented Passport.js for secure role-based authentication and session management[cite: 2] |
-| **Deployment** | Production-ready deployment on Render with MongoDB Atlas and environment configurations[cite: 2] |
-
-**Repository:** [`github.com/dhiraj352005/wanderlust`](#)
-<br />
+💻 Featured Projects
+<details open>
+<summary><b>🏡 WanderLust — Full-Stack Vacation Rental Platform</b></summary>
+<br/>
+A scalable full-stack web application for property listing, booking, and user management, built with MVC architecture and RESTful APIs.
+	
+Stack	Node.js, Express.js, MongoDB, Passport.js, Cloudinary, Mapbox, Bootstrap
+Auth	Secure authentication & role-based authorization with Passport.js, protected routes, session management
+Data Layer	MongoDB + Mongoose ORM for schema design, validation, and CRUD operations
+Features	Property search & filtering, reviews, interactive geospatial discovery via Mapbox + GeoJSON
+Deployment	Deployed on Render with MongoDB Atlas and environment-based configuration
+Repository: `github.com/dhiraj352005/Wanderlust`
 </details>
-
-<details>
-<summary><b>🤖 IntelliStroke - Stroke Risk Prediction System</b></summary>
-<br />
-An end-to-end machine learning pipeline leveraging a hybrid CNN-LSTM architecture to predict stroke risk utilizing structured healthcare datasets[cite: 2].
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, TensorFlow, Keras, Scikit-learn, NumPy, Pandas[cite: 2] |
-| **Scale** | Fully structured ML pipeline handling normalization and dataset balancing[cite: 2] |
-| **Performance** | Achieved 86% accuracy and 0.84 F1-score through iterative hyperparameter optimization[cite: 2] |
-| **Research** | Conducted comparative model evaluation and documented experimental findings[cite: 2] |
-| **Impact** | Identified highly effective predictive modeling approaches for medical informatics[cite: 2] |
-
-**Repository:** [`github.com/dhiraj352005/intellistroke`](#)
-<br />
+<details open>
+<summary><b>🧠 IntelliStroke — Stroke Risk Prediction System (CNN–LSTM)</b></summary>
+<br/>
+A hybrid CNN–LSTM deep learning model for stroke risk prediction, trained on structured healthcare datasets through a full ML pipeline.
+	
+Stack	Python, TensorFlow, Keras, Scikit-learn, NumPy, Pandas
+Pipeline	Data preprocessing, feature engineering, normalization, dataset balancing, training, evaluation
+Result	86% accuracy, 0.84 F1-score after iterative experimentation & hyperparameter tuning
+Process	Comparative model evaluation with documented experimental findings
+Repository: `github.com/dhiraj352005/Intellistroke`
 </details>
-
-<details>
-<summary><b>⚡ AI-Driven Oceanographic Data Platform (SIH 2025)</b></summary>
-<br />
-An award-winning platform engineered for the Smart India Hackathon, leveraging Convolutional Neural Networks and scalable backends to analyze complex ocean data[cite: 2].
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Python, CNN architectures, Node.js, Cloud deployment[cite: 2] |
-| **Scale** | Engineered scalable, automated backend data pipelines[cite: 2] |
-| **Focus** | Deep learning applied to complex environmental datasets[cite: 2] |
-| **Execution** | Built under extreme time constraints emphasizing rapid prototyping[cite: 2] |
-| **Impact** | Demonstrated the capability of AI models to interpret and manage large-scale ecological data streams[cite: 2] |
-
-**Repository:** [`github.com/dhiraj352005/oceanographic-ai`](#)
-<br />
-</details>
-
 ---
-
-## 💼 Experience
-
-### Software Development Engineer Intern | **Zensar Technologies**
-*June 2026 – Present*
-
-Engineering enterprise-grade full-stack cloud applications within a multi-tiered client-server architecture across full SDLC Agile sprint iterations[cite: 2].
-- Spearheaded backend module development and web services integration, solving complex routing problems to boost engineering efficiency by ~20%[cite: 2].
-- Executed rigorous unit testing, systematic debugging, and Git-based CI/CD code reviews to reduce production defects by ~30%[cite: 2].
-- Optimized backend REST API latency and frontend interface responsiveness by ~15%, writing clean and maintainable code[cite: 2].
-
-`React.js` `TypeScript` `Node.js` `RESTful APIs` `Agile`
-
+💼 Experience
+Software Development Engineer Intern | Zensar Technologies
+June 2026 – Present · Pune, India
+Technology Consulting, Digital Engineering, and IT Services Company
+Engineered enterprise-grade full-stack cloud applications using React.js, TypeScript, Node.js, and RESTful APIs within a multi-tiered client-server architecture across full SDLC Agile sprint iterations.
+Spearheaded backend module development and web services integration, solving complex routing problems to streamline end-to-end feature delivery — boosting engineering efficiency by ~20%.
+Owned quality engineering workflows: unit testing, systematic debugging, and Git-based CI/CD code reviews, reducing production defects by ~30%.
+Optimized backend REST API latency and frontend responsiveness by ~15% through clean, well-tested code.
+`React.js` `TypeScript` `Node.js` `REST APIs` `Agile/SDLC` `CI/CD`
 ---
-
-## 🏆 Achievements
-
+🏆 Achievements
 <div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Smart India Hackathon 2025** | Engineered an AI-driven oceanographic data platform using CNNs and scalable pipelines[cite: 2] |
-| **Blue Bit Hackathon** | Secured 4th Rank in a highly competitive collegiate full-stack web development hackathon[cite: 2] |
-| **Algorithmic Problem Solving** | Solved 700+ problems on LeetCode with a peak rating of 1616[cite: 2] |
-| **HackerRank Excellence** | Achieved a 5-Star rating in Problem Solving and Java, ranking in the top 5% globally[cite: 2] |
-
+Recognition	Details
+700+ DSA Problems Solved	Peak LeetCode rating of 1616
+HackerRank 5-Star	5-Star rating in Problem Solving & Java — top 5% globally
+Smart India Hackathon 2025	Engineered an AI-driven oceanographic data platform using CNNs and scalable automated backend pipelines
+Blue Bit Hackathon	Secured 4th Rank in a competitive collegiate full-stack hackathon at PCCOE Pune
 </div>
-
 ---
-
-## 📜 Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Coursera_Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera ML" />
-  <img src="https://img.shields.io/badge/IBM_Artificial_Intelligence-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI" />
-  <img src="https://img.shields.io/badge/Simplilearn_DevOps-005571?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/HackerRank_Java_&_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/Coursera_Data_Structures_&_Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera DSA" />
-</div>
-
+📜 Certifications
+Coursera
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+HackerRank
+![Python](https://img.shields.io/badge/Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+IBM
+![AI](https://img.shields.io/badge/Artificial_Intelligence-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+Simplilearn
+![DevOps](https://img.shields.io/badge/DevOps-FF6600?style=for-the-badge&logo=simplilearn&logoColor=white)
+<!-- TODO: paste your actual "Verify" links from the resume behind each badge above -->
 ---
-
-## 💻 Coding Profiles
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Peak_Rating_1616-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Rating" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java" /></a>
-</div>
-
+💻 Coding Profiles
+![LeetCode](https://img.shields.io/badge/LeetCode-500%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-5_Star_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+<!-- TODO: replace the # links above with your actual LeetCode and HackerRank profile URLs -->
 ---
-
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj352005&show_icons=true&theme=transparent&title_color=7209B7&icon_color=4361EE&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj352005&theme=transparent&fire=7209B7&ring=4361EE&currStreakLabel=7209B7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhiraj352005&show_icons=true&theme=transparent&title_color=7209B7&icon_color=4361EE&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhiraj352005&theme=transparent&fire=7209B7&ring=4361EE&currStreakLabel=7209B7&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj352005&layout=compact&theme=transparent&title_color=7209B7&text_color=c9d1d9&hide_border=true)
 </div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj352005&layout=compact&theme=transparent&title_color=7209B7&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
 ---
-
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj352005&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhiraj352005&theme=radical&row=1&column=7&no-frame=true&no-bg=true)
 </div>
-
 ---
-
-## 📈 Contribution Activity
-
+📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj352005&theme=tokyo-night&bg_color=0d1117&color=7209B7&line=4361EE&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhiraj352005&theme=tokyo-night&bg_color=0d1117&color=7209B7&line=4361EE&point=ffffff&hide_border=true)
 </div>
-
----
-
+<!-- TODO: the snake animation below requires a GitHub Actions workflow in your dhiraj352005/dhiraj352005 repo to generate the SVG — set that up if you want this to render -->
+<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhiraj352005/dhiraj352005/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/dhiraj352005/dhiraj352005/output/github-contribution-grid-snake-dark.svg)](https://github.com/dhiraj352005)
+
 </div>
-
 ---
-
-## 🎯 Current Focus
-
-
+🎯 Current Focus
+```yaml
 Current_Status:
-  Learning: 
-    - "Advanced Backend Architecture and System Design"
-    - "Scaling ML models in production environments"
-  Building: 
-    - "Optimizing RESTful services for enterprise-scale latency"
-  Exploring: 
-    - "Cloud-native DevOps pipelines and deployment strategies"
-  Open_To: 
-    - "Software Development Engineering Roles"
-    - "Full Stack & Backend Opportunities"
-    - "Open Source Collaborations"
+  Learning:
+    - "System Design & Distributed Systems"
+    - "Cloud fundamentals & DevOps practices"
+  Building:
+    - "Full-stack applications with React, Node.js & MongoDB"
+  Exploring:
+    - "Applied Machine Learning for real-world problems"
+  Open_To:
+    - "Internship opportunities"
+    - "Open-source contributions"
+    - "Collaborative full-stack / ML projects"
+```
+---
+📫 Connect
+![Gmail](https://img.shields.io/badge/dhiraj352005%40gmail.com-3A0CA3?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/dhirajuraut-4361EE?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/dhiraj352005-140A26?style=for-the-badge&logo=github&logoColor=white)
+---
+<div align="center">
+"Building things end-to-end, one commit at a time."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A0CA3&height=120&section=footer" width="100%"/>
+</div>
