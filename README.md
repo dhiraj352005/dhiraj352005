@@ -176,6 +176,15 @@ Engineering enterprise-grade full-stack cloud applications within a multi-tiered
 ---
 
 
+
+
+
+
+
+
+
+
+
 # 🛠️ Tech Stack
 
 ## Languages
@@ -240,10 +249,10 @@ Engineering enterprise-grade full-stack cloud applications within a multi-tiered
 
 | Domain | Proficiency | Core Technologies & Details |
 | :--- | :---: | :--- |
-| **Deep Learning Architecture** | Advanced | CNN-LSTM hybrid models, TensorFlow, Keras[cite: 2] |
-| **Data Analysis & Preprocessing** | Advanced | Pandas, NumPy, Scikit-learn, Feature Engineering[cite: 2] |
-| **Predictive Analytics** | Advanced | Healthcare dataset modeling, Iterative experimentation, Hyperparameter tuning[cite: 2] |
-| **Applied AI Engineering** | Intermediate | Integrating AI-driven models into full-stack automation pipelines[cite: 2] |
+| **Deep Learning Architecture** | Advanced | CNN-LSTM hybrid models, TensorFlow, Keras |
+| **Data Analysis & Preprocessing** | Advanced | Pandas, NumPy, Scikit-learn, Feature Engineering |
+| **Predictive Analytics** | Advanced | Healthcare dataset modeling, Iterative experimentation, Hyperparameter tuning |
+| **Applied AI Engineering** | Intermediate | Integrating AI-driven models into full-stack automation pipelines|
 
 ---
 
