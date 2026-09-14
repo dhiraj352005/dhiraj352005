@@ -43,13 +43,13 @@
 
 ## 🚀 About Me
 
-I am a **Software Development Engineer Intern** at Zensar Technologies, specializing in engineering enterprise-grade full-stack cloud applications[cite: 2]. Currently pursuing my B.Tech in Information Technology at Pimpri Chinchwad College of Engineering (GPA: 8.3)[cite: 2], I bridge the gap between complex algorithmic problem solving and seamless user experiences.
+I am a **Software Development Engineer Intern** at Zensar Technologies, specializing in engineering enterprise-grade full-stack cloud applications. Currently pursuing my B.Tech in Information Technology at Pimpri Chinchwad College of Engineering , I bridge the gap between complex algorithmic problem solving and seamless user experiences.
 
-My core expertise lies in designing scalable MVC architectures, integrating hybrid AI/ML prediction models, and streamlining end-to-end feature delivery through rigorous CI/CD practices[cite: 2].
+My core expertise lies in designing scalable MVC architectures, integrating hybrid AI/ML prediction models, and streamlining end-to-end feature delivery through rigorous CI/CD practices.
 
 - 🔭 **Currently Open To:** SDE / Full-Stack Engineering roles, Backend Development, and high-impact Open Source collaborations.
-- 💡 **Engineering Mindset:** Agile full SDLC iterations, clean well-tested code, and modern algorithm design[cite: 2].
-- ⚙️ **Focus:** System design, REST API latency optimization, and building robust predictive pipelines[cite: 2].
+- 💡 **Engineering Mindset:** Agile full SDLC iterations, clean well-tested code, and modern algorithm design.
+- ⚙️ **Focus:** System design, REST API latency optimization, and building robust predictive pipelines.
 
 ---
 ## 💻 Coding Profiles
@@ -247,14 +247,21 @@ Engineering enterprise-grade full-stack cloud applications within a multi-tiered
 
 ## 🧠 AI/ML Expertise
 
-| Domain | Proficiency | Core Technologies & Details |
+| Area | Proficiency | Skills & Technologies |
 | :--- | :---: | :--- |
-| **Deep Learning Architecture** | Advanced | CNN-LSTM hybrid models, TensorFlow, Keras |
-| **Data Analysis & Preprocessing** | Advanced | Pandas, NumPy, Scikit-learn, Feature Engineering |
-| **Predictive Analytics** | Advanced | Healthcare dataset modeling, Iterative experimentation, Hyperparameter tuning |
-| **Applied AI Engineering** | Intermediate | Integrating AI-driven models into full-stack automation pipelines|
+| **Machine Learning** | Advanced | Supervised Learning, Classification, Regression, Model Evaluation, Scikit-learn |
+| **Deep Learning** | Advanced | CNN, LSTM, CNN-LSTM Hybrid Models, TensorFlow, Keras |
+| **Data Processing** | Advanced | Pandas, NumPy, Data Cleaning, Feature Engineering, Data Preprocessing |
+| **Predictive Modeling** | Advanced | Healthcare Prediction, Model Training, Hyperparameter Tuning, Performance Optimization |
+| **Model Evaluation** | Intermediate | Accuracy, Precision, Recall, F1-Score, Confusion Matrix, Comparative Analysis |
+| **AI Application Development** | Intermediate | AI/ML Model Integration, REST APIs, Full-Stack AI Applications |
+| **Experimentation & Optimization** | Intermediate | Iterative Experimentation, Model Comparison, Hyperparameter Optimization |
 
 ---
+
+
+
+
 
 ## 💻 Featured Projects
 
@@ -332,10 +339,10 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 | Recognition | Details |
 | :--- | :--- |
-| **Smart India Hackathon 2025** | Engineered an AI-driven oceanographic data platform using CNNs and scalable pipelines[cite: 2] |
-| **Blue Bit Hackathon** | Secured 4th Rank in a highly competitive collegiate full-stack web development hackathon[cite: 2] |
-| **Algorithmic Problem Solving** | Solved 700+ problems on LeetCode with a peak rating of 1616[cite: 2] |
-| **HackerRank Excellence** | Achieved a 5-Star rating in Problem Solving and Java, ranking in the top 5% globally[cite: 2] |
+| **Smart India Hackathon 2025** | Engineered an AI-driven oceanographic data platform using CNNs and scalable pipelines |
+| **Blue Bit Hackathon** | Secured 4th Rank in a highly competitive collegiate full-stack web development hackathon |
+| **Algorithmic Problem Solving** | Solved 700+ problems on LeetCode with a peak rating of 1616 |
+| **HackerRank Excellence** | Achieved a 5-Star rating in Problem Solving and Java, ranking in the top 5% globally |
 
 </div>
 
