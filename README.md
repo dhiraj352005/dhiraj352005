@@ -426,7 +426,7 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 ---
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -456,6 +456,8 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
   />
 
 </div>
+-->
+
 
 ---
 
