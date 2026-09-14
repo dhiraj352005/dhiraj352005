@@ -300,12 +300,6 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
     <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java" />
   </a>
 
-   <!-- C++ -->
-
-  <a href="https://drive.google.com/file/d/1bOUQkt-4-2o7FKYA5_RuQruuXszF5_-B/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Advanced_C%2B%2B-Simplilearn-FF6600?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Advanced C++" />
-  </a>
-
   <a href="https://www.hackerrank.com/certificates/5063a6fe26b3">
     <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java" />
   </a>
@@ -350,9 +344,14 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
     <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
   </a>
 
- 
+  <!-- C++ -->
+
+  <a href="https://drive.google.com/file/d/1bOUQkt-4-2o7FKYA5_RuQruuXszF5_-B/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Advanced_C%2B%2B-Simplilearn-FF6600?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Advanced C++" />
+  </a>
 
 </div>
+
 
 
 
