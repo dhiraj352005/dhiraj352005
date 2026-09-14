@@ -31,6 +31,16 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
+
 ## 🚀 About Me
 
 I am a **Software Development Engineer Intern** at Zensar Technologies, specializing in engineering enterprise-grade full-stack cloud applications[cite: 2]. Currently pursuing my B.Tech in Information Technology at Pimpri Chinchwad College of Engineering (GPA: 8.3)[cite: 2], I bridge the gap between complex algorithmic problem solving and seamless user experiences.
@@ -73,6 +83,18 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 </div>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -98,6 +120,16 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 </div>
 ---
 
+
+
+
+
+
+
+
+
+
+
 ## 🌐 Social Media
 
 <div align="center">
@@ -117,6 +149,17 @@ My core expertise lies in designing scalable MVC architectures, integrating hybr
 </div>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 ## 💼 Experience
 
@@ -180,6 +223,18 @@ Engineering enterprise-grade full-stack cloud applications within a multi-tiered
 
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🧠 AI/ML Expertise
 
@@ -246,6 +301,19 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 </details>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -357,23 +425,36 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj352005&show_icons=true&theme=transparent&title_color=7209B7&icon_color=4361EE&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj352005&theme=transparent&fire=7209B7&ring=4361EE&currStreakLabel=7209B7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhiraj352005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7209B7&icon_color=4361EE&text_color=C9D1D9"
+    alt="GitHub Stats"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj352005&theme=transparent&hide_border=true&fire=7209B7&ring=4361EE&currStreakLabel=7209B7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="GitHub Streak"
+    width="48%"
+  />
+
 </div>
+
 <br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj352005&layout=compact&theme=transparent&title_color=7209B7&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj352005&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhiraj352005&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7209B7&text_color=C9D1D9"
+    alt="Top Languages"
+    width="48%"
+  />
+
 </div>
 
 ---
