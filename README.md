@@ -340,6 +340,18 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -517,11 +529,21 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj352005&bg_color=0D1117&color=C9D1D9&line=7209B7&point=4361EE&area=true&hide_border=true" alt="Dhiraj's GitHub Contribution Activity" width="100%" />
-</div>
+
 
 ---
 
@@ -532,13 +554,19 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj352005&theme=tokyo-night&bg_color=0d1117&color=7209B7&line=4361EE&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 -->
+
+
 ---
+
+
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhiraj352005/dhiraj352005/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/dhiraj352005/dhiraj352005/output/github-contribution-grid-snake-dark.svg" alt="Dhiraj's GitHub Contribution Snake" width="100%" />
 </div>
+
+
 
 ---
 
