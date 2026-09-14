@@ -263,6 +263,13 @@ Engineering enterprise-grade full-stack cloud applications within a multi-tiered
 
 
 
+
+
+
+
+
+
+
 ## 💻 Featured Projects
 
 <details>
@@ -445,6 +452,18 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 <!--
@@ -491,11 +510,20 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 
 
+
+
+
+
+
+
+
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj352005&bg_color=0D1117&color=C9D1D9&line=7209B7&point=4361EE&area=true&hide_border=true" alt="Dhiraj's GitHub Contribution Activity" width="100%" />
 </div>
+
+---
 
 <!--
 ## 📈 Contribution Activity
