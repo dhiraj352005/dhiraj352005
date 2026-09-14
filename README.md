@@ -266,12 +266,21 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 ## 📜 Certifications
 
+
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Coursera_Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera ML" />
-  <img src="https://img.shields.io/badge/IBM_Artificial_Intelligence-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI" />
-  <img src="https://img.shields.io/badge/Simplilearn_DevOps-005571?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/HackerRank_Java_&_Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/Coursera_Data_Structures_&_Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera DSA" />
+  <a href="https://coursera.org/share/96d707d9c55a6a2a46fafbe4c58e5bee">
+    <img src="https://img.shields.io/badge/DSA-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="DSA" />
+  </a>
+  <a href="https://coursera.org/share/e233411e2f3c30aed54bfd8c8124a330">
+    <img src="https://img.shields.io/badge/Machine_Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning" />
+  </a>
+  <a href="https://coursera.org/share/80f7c2210e1f67f3cdb3d913d9f69cdb">
+    <img src="https://img.shields.io/badge/System_Design-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="System Design" />
+  </a>
+  <a href="https://coursera.org/share/1ebe3606903ddab3d162e7d7c56e09eb">
+    <img src="https://img.shields.io/badge/Google_Cybersecurity-Coursera-0056D2?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity" />
+  </a>
 </div>
 
 
