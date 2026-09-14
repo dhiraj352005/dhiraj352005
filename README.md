@@ -41,6 +41,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## 🚀 About Me
 
 I am a **Software Development Engineer Intern** at Zensar Technologies, specializing in engineering enterprise-grade full-stack cloud applications. Currently pursuing my B.Tech in Information Technology at Pimpri Chinchwad College of Engineering , I bridge the gap between complex algorithmic problem solving and seamless user experiences.
@@ -541,7 +551,7 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 
 
-## 📈 Contribution Activity
+
 
 
 
