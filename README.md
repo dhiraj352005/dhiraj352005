@@ -266,22 +266,94 @@ An award-winning platform engineered for the Smart India Hackathon, leveraging C
 
 ## 📜 Certifications
 
-
-
 <div align="center">
+
+  <!-- DSA -->
+
   <a href="https://coursera.org/share/96d707d9c55a6a2a46fafbe4c58e5bee">
     <img src="https://img.shields.io/badge/DSA-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="DSA" />
   </a>
+
+  <!-- Machine Learning -->
+
   <a href="https://coursera.org/share/e233411e2f3c30aed54bfd8c8124a330">
     <img src="https://img.shields.io/badge/Machine_Learning-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning" />
   </a>
+
+  <!-- System Design -->
+
   <a href="https://coursera.org/share/80f7c2210e1f67f3cdb3d913d9f69cdb">
     <img src="https://img.shields.io/badge/System_Design-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="System Design" />
   </a>
+
+  <!-- Google Cybersecurity -->
+
   <a href="https://coursera.org/share/1ebe3606903ddab3d162e7d7c56e09eb">
     <img src="https://img.shields.io/badge/Google_Cybersecurity-Coursera-0056D2?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity" />
   </a>
+
+<br><br>
+
+  <!-- Java -->
+
+  <a href="https://www.hackerrank.com/certificates/56d04ffed81d">
+    <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java" />
+  </a>
+
+   <!-- C++ -->
+
+  <a href="https://drive.google.com/file/d/1bOUQkt-4-2o7FKYA5_RuQruuXszF5_-B/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Advanced_C%2B%2B-Simplilearn-FF6600?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Advanced C++" />
+  </a>
+
+  <a href="https://www.hackerrank.com/certificates/5063a6fe26b3">
+    <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java" />
+  </a>
+
+  <!-- SQL -->
+
+  <a href="https://www.hackerrank.com/certificates/7e1db28b9b19">
+    <img src="https://img.shields.io/badge/SQL_Advanced-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Advanced" />
+  </a>
+
+  <!-- JavaScript -->
+
+  <a href="https://www.hackerrank.com/certificates/bf4dd6d28ab8">
+    <img src="https://img.shields.io/badge/JavaScript_Intermediate-HackerRank-2EC866?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Intermediate" />
+  </a>
+
+<br><br>
+
+  <!-- IBM AI -->
+
+  <a href="https://drive.google.com/file/d/1mnB3BOszN7eCP6z8tWDOYEomkmf2gFXS/view?usp=sharing">
+    <img src="https://img.shields.io/badge/IBM_Introduction_to_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Introduction to Artificial Intelligence" />
+  </a>
+
+  <!-- Generative AI -->
+
+  <a href="https://www.credly.com/badges/0c7d395f-7b19-47e2-a339-beb354016368/public_url">
+    <img src="https://img.shields.io/badge/Generative_AI-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Generative AI" />
+  </a>
+
+  <!-- Credly Badge -->
+
+  <a href="https://www.credly.com/badges/3e607400-17cd-47bc-81e4-470e284a2c37/public_url">
+    <img src="https://img.shields.io/badge/Professional_Badge-Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
+  </a>
+
+<br><br>
+
+  <!-- AWS -->
+
+  <a href="https://drive.google.com/file/d/1emTksnfmk8-kbxAFIe5z5YtPC821mwGX/view?usp=sharing">
+    <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
+  </a>
+
+ 
+
 </div>
+
 
 
 ---
